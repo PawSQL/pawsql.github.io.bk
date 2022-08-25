@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://pawsql.github.io/blog/2022/Top%20five%20sql%20optimization%20tools/</loc>
+         <lastmod>2022-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://pawsql.github.io/blog/2022/four_traps_null_processing/</loc>
          <lastmod>2022-08-25</lastmod>
          <changefreq>daily</changefreq>
