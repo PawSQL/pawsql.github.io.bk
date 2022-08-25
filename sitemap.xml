@@ -51,11 +51,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pawsql.github.io/pawindexadvisor/getstarted/</loc>
-         <lastmod>2022-08-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://pawsql.github.io/pawindexadvisor/intellij-plugin/</loc>
          <lastmod>2022-08-25</lastmod>
          <changefreq>daily</changefreq>
@@ -107,11 +102,6 @@
     </url>
     <url>
          <loc>https://pawsql.github.io/pawsqladvisor/eula/</loc>
-         <lastmod>2022-08-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pawsql.github.io/pawsqladvisor/getstarted/</loc>
          <lastmod>2022-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
