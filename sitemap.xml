@@ -111,6 +111,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://pawsql.github.io/pawreference/sat-tc/</loc>
+         <lastmod>2022-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://pawsql.github.io/pawreference/sql-syntax/</loc>
          <lastmod>2022-10-17</lastmod>
          <changefreq>daily</changefreq>
