@@ -2,152 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pawsql.github.io/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/license/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/readme/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/blog/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/blog/2022/four_pitfalls_null_processing/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/blog/2022/top5_sql_optimization_tools/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawindexadvisor/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawindexadvisor/change-log/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawindexadvisor/command-line/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawindexadvisor/configuration/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawindexadvisor/configuration2/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawindexadvisor/eula/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawindexadvisor/intellij-plugin/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawindexadvisor/recommended-indexes/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawindexadvisor/what-if-validation/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawreference/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawreference/ActivationCodeforPlugin/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawreference/Projection%20Pushdown/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawreference/RuleQueryFoldingRewrite/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawreference/audit-rules/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawreference/datatype-mismatching/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawreference/rewrite-rules/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawreference/sat-tc/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawreference/sql-syntax/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawsqladvisor/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawsqladvisor/change-log/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawsqladvisor/configuration/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawsqladvisor/eula/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawsqladvisor/pawsummary/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pawsql.github.io/pawsqladvisor/tuningdetails/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
